@@ -1,7 +1,7 @@
 # Grainger-Competition-Workplace-Safety-Measure
-Team Name - Why Not We?
-Award - Finalist 4th Place
-Team Members 
+## Team Name - Why Not We?
+## Award - Finalist 4th Place
+## Team Members Name
 1. Aravinthan Ramanathan
 2. Elamathi Senthilkumar
 3. Sri Hari Sivashanmugam 
